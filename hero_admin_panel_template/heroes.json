@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Sanabek",
+      "description": "123",
+      "element": "water"
+    },
+    {
+      "id": 3,
+      "name": "hgfjhgm",
+      "description": ",hj,kj,",
+      "element": "wind"
+    },
+    {
+      "id": 4,
+      "name": "jhgjghj",
+      "description": "mhmhgmhjgm",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "element": "all",
+      "name": "Все",
+      "className": "btn btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "element": "fire",
+      "name": "Огонь",
+      "className": "btn btn-danger"
+    },
+    {
+      "id": "water",
+      "element": "water",
+      "name": "Вода",
+      "className": "btn btn-primary"
+    },
+    {
+      "id": "wind",
+      "element": "wind",
+      "name": "Ветер",
+      "className": "btn btn-success"
+    },
+    {
+      "id": "earth",
+      "element": "earth",
+      "name": "Земля",
+      "className": "btn btn-secondary"
+    }
+  ]
+}
