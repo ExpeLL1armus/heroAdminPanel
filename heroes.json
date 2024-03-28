@@ -2,27 +2,33 @@
   "heroes": [
     {
       "id": 1,
-      "name": "Первый герой",
-      "description": "Первый герой в рейтинге!",
+      "name": "Первой герой",
+      "description": "Первой герой со стихией огня",
       "element": "fire"
     },
     {
       "id": 2,
-      "name": "Sanabek",
-      "description": "123",
+      "name": "Второй герой ",
+      "description": "Второй герой со стихией воды",
       "element": "water"
     },
     {
       "id": 3,
-      "name": "hgfjhgm",
-      "description": ",hj,kj,",
+      "name": "Третий герой",
+      "description": "Третий герой со стихией ветра",
       "element": "wind"
     },
     {
       "id": 4,
-      "name": "jhgjghj",
-      "description": "mhmhgmhjgm",
+      "name": "Четвертый герой",
+      "description": "Четвертый герой со стихией земли",
       "element": "earth"
+    },
+    {
+      "id": 5,
+      "name": "Пятый герой",
+      "description": "Пятый герой со стихией огня ",
+      "element": "fire"
     }
   ],
   "filters": [
