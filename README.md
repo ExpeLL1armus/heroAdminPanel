@@ -15,10 +15,8 @@
 Само приложение на порту http://localhost:3000, а json-server на http://localhost:3001
 
 **Screenshots:**
-![image](https://github.com/ExpeLL1armus/HeroesList/assets/89298315/b910ca0e-3c7f-4b1e-9ffa-a3778d0c9fce)
-![image](https://github.com/ExpeLL1armus/HeroesList/assets/89298315/2522b37b-883d-44bc-8106-82ef5c751442)
-![image](https://github.com/ExpeLL1armus/HeroesList/assets/89298315/a7b43b30-e6e5-43b3-a54d-9b70954c342c)
-![image](https://github.com/ExpeLL1armus/HeroesList/assets/89298315/90f7350d-f450-4791-96f1-a408c24c13df)
-![image](https://github.com/ExpeLL1armus/HeroesList/assets/89298315/4a17856e-b893-4e47-a15b-aeb22f723ef3)
-![image](https://github.com/ExpeLL1armus/HeroesList/assets/89298315/a309ad1d-01d6-46d3-ad85-b25c69ce961c)
-![image](https://github.com/ExpeLL1armus/HeroesList/assets/89298315/41c9f014-43b6-4bb8-b95e-05312c7eb97f)
+![image](https://github.com/ExpeLL1armus/heroAdminPanel/assets/89298315/cec2319f-1603-4e75-bf62-9d1e2ae49926)
+![image](https://github.com/ExpeLL1armus/heroAdminPanel/assets/89298315/751d45e8-2a9c-4edd-b64e-1dc5d1df8da3)
+![image](https://github.com/ExpeLL1armus/heroAdminPanel/assets/89298315/bccb936e-86aa-4194-b84d-09415d93009e)
+![image](https://github.com/ExpeLL1armus/heroAdminPanel/assets/89298315/69e04db8-1343-4e86-b9d8-53da44e6e47f)
+![image](https://github.com/ExpeLL1armus/heroAdminPanel/assets/89298315/4b51245f-ccdb-49f5-b67e-ac0206fbfc2b)
